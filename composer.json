@@ -1,0 +1,10 @@
+{
+    "name": "shamil/farm",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Animals\\": "Animals",
+            "Farm\\": ""
+        }
+    }
+}
